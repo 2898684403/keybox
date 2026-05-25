@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <AndroidAttestation>
     <NumberOfKeyboxes>1</NumberOfKeyboxes>
-    <Keybox DeviceID="Samsung_c5faa186-2a74-4c12-a5a0-22f396e63aa7">
+    <Keybox DeviceID="XiaoCaiYe520">
         <Key algorithm="ecdsa">
             <PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
@@ -85,7 +85,6 @@ ex0SdDrx+tWUDqG8At2JHA==
                 </Certificate>
             </CertificateChain>
         </Key>
-
         <Key algorithm="rsa">
             <PrivateKey format="pem">
 -----BEGIN RSA PRIVATE KEY-----
